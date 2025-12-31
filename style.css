@@ -529,7 +529,7 @@ body {
 /* NAVBAR */
 .nav {
   height: 52px;
-  padding: 0 140px;
+  padding: 0 135px;
   display: flex;
   align-items: center;
   justify-content: space-between;
